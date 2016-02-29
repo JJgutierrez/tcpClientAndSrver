@@ -1,0 +1,13 @@
+Mostly of my research is sockets and tcp
+and How to handle data
+many examples online are really bad.
+I spended a least 4 hours watching videos online courses
+and Udemy courses that help a little.
+right now I'm looking a way to direct communication between client to client.
+
+I really enjoy this project
+mostly because give me the change too better understand 
+code organization and better understanding how data is been transfer.
+
+
+

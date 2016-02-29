@@ -1,0 +1,4 @@
+C:\Users\Juan\Documents\class\OxigenClass\TCPServerSocket\ServerData\bin\Debug\ServerData.dll
+C:\Users\Juan\Documents\class\OxigenClass\TCPServerSocket\ServerData\bin\Debug\ServerData.pdb
+C:\Users\Juan\Documents\class\OxigenClass\TCPServerSocket\ServerData\obj\Debug\ServerData.dll
+C:\Users\Juan\Documents\class\OxigenClass\TCPServerSocket\ServerData\obj\Debug\ServerData.pdb

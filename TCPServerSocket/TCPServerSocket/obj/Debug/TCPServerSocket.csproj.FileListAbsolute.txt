@@ -1,0 +1,8 @@
+C:\Users\Juan\Documents\class\OxigenClass\TCPServerSocket\TCPServerSocket\bin\Debug\TCPServerSocket.exe.config
+C:\Users\Juan\Documents\class\OxigenClass\TCPServerSocket\TCPServerSocket\bin\Debug\TCPServerSocket.exe
+C:\Users\Juan\Documents\class\OxigenClass\TCPServerSocket\TCPServerSocket\bin\Debug\TCPServerSocket.pdb
+C:\Users\Juan\Documents\class\OxigenClass\TCPServerSocket\TCPServerSocket\obj\Debug\TCPServerSocket.exe
+C:\Users\Juan\Documents\class\OxigenClass\TCPServerSocket\TCPServerSocket\obj\Debug\TCPServerSocket.pdb
+C:\Users\Juan\Documents\class\OxigenClass\TCPServerSocket\TCPServerSocket\obj\Debug\TCPServerSocket.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Documents\class\OxigenClass\TCPServerSocket\TCPServerSocket\bin\Debug\ServerData.dll
+C:\Users\Juan\Documents\class\OxigenClass\TCPServerSocket\TCPServerSocket\bin\Debug\ServerData.pdb
