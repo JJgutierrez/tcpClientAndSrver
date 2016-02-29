@@ -1,0 +1,10 @@
+C:\Users\Juan\Documents\class\OxigenClass\TCPClient socket\TCPClient socket\bin\Debug\TCPClient socket.exe.config
+C:\Users\Juan\Documents\class\OxigenClass\TCPClient socket\TCPClient socket\bin\Debug\TCPClient socket.exe
+C:\Users\Juan\Documents\class\OxigenClass\TCPClient socket\TCPClient socket\bin\Debug\TCPClient socket.pdb
+C:\Users\Juan\Documents\class\OxigenClass\TCPClient socket\TCPClient socket\obj\Debug\TCPClient socket.exe
+C:\Users\Juan\Documents\class\OxigenClass\TCPClient socket\TCPClient socket\obj\Debug\TCPClient socket.pdb
+C:\Users\Juan\Documents\class\OxigenClass\TCPClient socket\TCPClient socket\obj\Debug\TCPClient socket.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Documents\class\OxigenClass\TCPClient socket\TCPClient socket\bin\Debug\ServerData.dll
+C:\Users\Juan\Documents\class\OxigenClass\TCPClient socket\TCPClient socket\bin\Debug\ServerData.pdb
+C:\Users\Juan\Documents\class\OxigenClass\TCPClient socket\TCPClient socket\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Juan\Documents\class\OxigenClass\TCPClient socket\TCPClient socket\bin\Debug\Newtonsoft.Json.xml
